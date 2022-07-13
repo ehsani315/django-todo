@@ -15,4 +15,4 @@ pip install -r requirements.txt
 
 ## Ways to contact with me for question or request to do your project
 ### [My instagram](https://instagram.com/ehsani_315)
-### [My telegram](https://telegram.com/ehsani_315)
+### [My telegram](https://telegram.me/ehsani_315)
